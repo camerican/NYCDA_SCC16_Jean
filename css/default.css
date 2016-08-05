@@ -12,7 +12,23 @@
 	    color: blue;
 }
 
-div {
+.figures {
 	display: block;
 	float: left;
+	height: 25%;
+	width: 35%;
+	margin: 1em;
+	padding: 1em;
+	border: solid;
+	text-align: justify;	
+}
+.quote {
+	display: block;
+	float: left;
+	height: 25%;
+	width: 35%;
+	margin: 1em;
+	padding: 1em;
+	border: solid;
+	text-align: justify;
 }
