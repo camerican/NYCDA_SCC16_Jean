@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<link rel="stylesheet" href="css/detail.css"></link>
+	<title>Coding Courses</title>	
+</head>
+
+<body>
+	<header>
+		<h1>What Jean is Thinking About</h1>
+			<a class="subjects" href="webpage1">Coding Courses</a>	
+			<a class="subjects" href="webpage2">Presidential Contenders</a>
+			<a class="subjects" href="webpage3">Favorite Things</a>
+	</header>
+	
+	<div id="social-media-sidebar">
+		<ul>
+		<li>
+			<a href="http://www.facebook.com">Facebook</a>
+		</li>
+		<li>
+			<a href="http://www.twitter.com">Twitter</a>
+		</li>
+		</ul>
+	</div>
+
+	<h3>Coding Courses</h3>
+    <div class="my-float">
+     <p> 
+     <em>Codeup, San Antonio</em><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros.Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros.Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros.Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo.
+ 	</p>
+ 	</div>
+
+ 	<div class="my-float">
+ 	<p> 
+     <em>New York Code + Design Academy</em><br>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros.Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros.Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros.Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo.
+ 	</p>
+ 	</div>
+</body>
+</html>
