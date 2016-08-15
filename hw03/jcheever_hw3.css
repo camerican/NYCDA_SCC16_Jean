@@ -1,0 +1,29 @@
+/* Try changing an element's CSS */
+
+.red {
+	font-size: 1.5em;
+	text-align: justify;
+	background-color: red;
+	margin: 1em;
+}
+
+#blue {
+	font-size: 1.0em;
+	text-align: justify;
+	background-color: blue;
+	margin: .5em;
+}
+
+.yellow {
+	font-size: 2.5em;
+	text-align: justify;
+	background-color: yellow;
+	margin: 1em;
+}
+
+.pink {
+	font-size: 2.0em;
+	text-align: left;
+	background-color: pink;
+	margin: 2em;
+}
